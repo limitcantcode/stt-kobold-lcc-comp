@@ -1,2 +1,4 @@
 jaison-grpc>=1.1.5
 pyyaml==6.0.2
+wave==0.0.2
+requests==2.32.3

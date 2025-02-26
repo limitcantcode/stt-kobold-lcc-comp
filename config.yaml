@@ -1,0 +1,10 @@
+endpoint: null # url to existing Kobold API endpoint
+kobold-filepath: null # if no existing endpoint, filepath to Kobold executable
+kcpps-filepath: null # if no existing endpoint, filepath to Kobold config to start with
+force-port: null # if no existing endpoint, force component-started endpoint to run on this port
+prompt: ""
+suppress-non-speech: false
+langcode: "en"
+use-vulkan: true # Make false if you're having issues with Vulkan
+vulkan-device: null # Specify a specific device id for Vulkan acceleration. null for auto-detect
+
